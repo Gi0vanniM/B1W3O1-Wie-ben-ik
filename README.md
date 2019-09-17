@@ -15,16 +15,22 @@ Deze opdracht moet aan de volgende functionele eisen voldoen, vermeld de volgend
 # ?
 - Hoe zorg je ervoor dat je gemotiveerd blijft. 
 # motivatie
+
 - Wat ben je bereid om na de lessen nog te doen aan de opleiding. 
 # Tijd
+
 - Beschrijf ontwikkelpunten. Waar wil je jezelf op ontwikkelen. Bijv. Ik wil leren zelf fouten te vinden en op te lossen. OF Ik wil leren zelfstandig technieken te onderzoeken. 
 # Big brain
+
 - Beschrijf bij elke vooropleiding hoe je het daar vond. Beschrijf wat je hebt geleerd, wat je binnen deze opleiding toe kan passen.
 # voor opleidingen
+
 - Beschrijf voor elke bijbaan wat je daar moest doen en wat je daar hebt geleerd en hoe je dat binnen deze opleiding kan toepassen. 
 # bijbanen
+
 - Vertel bij elke bijbaan en vooropleiding heb je een aantal vaardigheden opgedaan. Hoe verwacht je deze te kunnen gebruiken binnen het vak van Applicatie Ontwikkeling. 
 # vaardigheden
+
 - Voeg een persoonlijke foto van jezelf toe aan de pagina. (zorg ervoor dat dit een representatieve/professionele foto is.
 - Maak gebruik van een float daar waar nodig, zodat je tekst netjes om de foto loopt.
 # foto

@@ -1,12 +1,12 @@
 .box {
     text-align: center;
-    background-color: dimgrey;
+    background-color: blue;
+    height: 60px;
 }
 
 .box .img {
     height: 50px;
     width: 50px;
-    float: 
 }
 
 .header-box .gm_d {
@@ -20,8 +20,10 @@
 
 .header-box {
     text-align: center;
-    background-color: darkgrey;
+    background-color: darkblue;
 }
 body{
-    background-color: gray;
-}
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
