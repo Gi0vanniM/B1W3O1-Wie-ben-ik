@@ -1,0 +1,27 @@
+.box {
+    text-align: center;
+    background-color: dimgrey;
+}
+
+.box .img {
+    height: 50px;
+    width: 50px;
+    float: 
+}
+
+.header-box .gm_d {
+    height: 50px;
+    width: 50px;
+}
+.header-box .gm {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header-box {
+    text-align: center;
+    background-color: darkgrey;
+}
+body{
+    background-color: gray;
+}
