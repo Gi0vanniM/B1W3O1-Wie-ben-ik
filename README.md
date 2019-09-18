@@ -20,14 +20,12 @@ Deze opdracht moet aan de volgende functionele eisen voldoen, vermeld de volgend
 # Tijd
 
 - Beschrijf ontwikkelpunten. Waar wil je jezelf op ontwikkelen. Bijv. Ik wil leren zelf fouten te vinden en op te lossen. OF Ik wil leren zelfstandig technieken te onderzoeken. 
-# Big brain
+# Big brain ontwikkeling
 
 - Beschrijf bij elke vooropleiding hoe je het daar vond. Beschrijf wat je hebt geleerd, wat je binnen deze opleiding toe kan passen.
 # voor opleidingen
-
 - Beschrijf voor elke bijbaan wat je daar moest doen en wat je daar hebt geleerd en hoe je dat binnen deze opleiding kan toepassen. 
 # bijbanen
-
 - Vertel bij elke bijbaan en vooropleiding heb je een aantal vaardigheden opgedaan. Hoe verwacht je deze te kunnen gebruiken binnen het vak van Applicatie Ontwikkeling. 
 # vaardigheden
 
